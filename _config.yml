@@ -1,6 +1,6 @@
 # Configurations
 title:            Library
-longtitle:        The Library InstHealth
+longtitle:        The Book InstHealth
 author:           HE Tao
 email:            sighingnow@gmail.com
 description: >
@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://library.insthealth.ru'
+url:              'https://book.insthealth.ru'
 baseurl:          ''
 rss:              RSS
 
